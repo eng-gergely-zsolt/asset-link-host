@@ -1,0 +1,26 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.practice.sharing1",
+        "sha256_cert_fingerprints": [
+          "AB0:99:5C:C8:07:12:8E:62:D6:99:D7:54:B2:FC:D8:AA:F4:A2:13:94:A8:38:22:D1:D3:40:59:5E:16:C3:69:8F"
+        ]
+      }
+    },
+    {
+      "relation": [
+        "delegate_permission/common.get_login_creds"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.practice.sharing2",
+        "sha256_cert_fingerprints": [
+          "AB0:99:5C:C8:07:12:8E:62:D6:99:D7:54:B2:FC:D8:AA:F4:A2:13:94:A8:38:22:D1:D3:40:59:5E:16:C3:69:8F"
+        ]
+      }
+    }
+  ]
